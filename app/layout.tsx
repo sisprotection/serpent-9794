@@ -3,9 +3,9 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Serpent Industrial Climate Hardening',
+  description: 'Tactical engineering intake portal for cold-chain resilience and warehouse HVAC hardening.',
+  generator: 'Serpent Intelligence Systems',
   icons: {
     icon: [
       {
